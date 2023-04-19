@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 A propos de moi:
 Je suis actuellement en formation web et web mobile de niveau 5. J'aimerais poursuivre dans ce domaine pour gagner en compétence et en expérience
 
 
