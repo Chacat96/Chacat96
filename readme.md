@@ -1,9 +1,9 @@
 # 💫 A propos de moi :
 Bienvenue sur mon profil GitHub !<br/>
 
-Je suis actuellement en formation web et web mobile de niveau 5 et je suis passionnée par le développement web et mobile. Mon objectif est d'améliorer mes compétences et d'acquérir de l'expérience dans ce domaine pour devenir une développeuse compétent.<br/>
+Je suis actuellement en formation web et web mobile de niveau 5 et je suis passionnée par le développement web et mobile. Mon objectif est d'améliorer mes compétences et d'acquérir de l'expérience dans ce domaine pour devenir une développeuse compétente.<br/>
 
-Dans ce dépôt, vous trouverez les projets que j'ai travaillés au cours de ma formation et mes projets personnels qui démontrent mes compétences en développement. N'hésitez pas à explorer mes projets et à me faire part de vos commentaires.<br/>
+Dans ce dépôt, vous trouverez les projets que j'ai travaillés au cours de ma formation.<br/>
 
 Si vous avez des questions ou si vous souhaitez me contacter, n'hésitez pas à m'envoyer un message. Merci de votre visite !<br/>
 
