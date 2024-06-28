@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bienvenue sur mon profil GitHub !<br>Je suis actuellement en formation concepteur développeur d'application de niveau 6.<br>Mon objectif est d'améliorer mes compétences et d'acquérir de l'expérience dans ce domaine pour devenir une développeuse compétente. <br>Dans ce dépôt, vous trouverez les projets que j'ai travaillés au cours de ma formation. <br>Si vous avez des questions ou si vous souhaitez me contacter, n'hésitez pas à m'envoyer un message. <br>Merci de votre visite !
+Bienvenue sur mon profil GitHub !<br>Je suis actuellement en alternance avec Openclassroom pour un titre de niveau 6.<br>Mon objectif est d'améliorer mes compétences et d'acquérir de l'expérience dans ce domaine pour mener à bien les missions qui me seront confiées. <br>Dans ce dépôt, vous trouverez les projets que j'ai travaillés au cours de mes formations. <br>Si vous avez des questions ou si vous souhaitez me contacter, n'hésitez pas à m'envoyer un message. <br>Merci de votre visite !
 
 
 ## 🌐 Socials:
